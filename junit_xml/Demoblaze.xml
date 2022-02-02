@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="0.396">
+    <testcase classname="Db login product form" name="Checking the functianality of Login form and product cart" time="0.106">
+        <system-out><![CDATA[Given user must be on homepage clicking url "https://demoblaze.com/"........passed
+When Click on login element.................................................passed
+And user should login with the same vikram1501 and markiv0115 as signup account.passed
+And click on login button...................................................passed
+And user must be on his or her account......................................passed
+And Click on Laptops tab element............................................passed
+And Click on any product....................................................passed
+And Click on Add to Cart and handle the alert...............................passed
+Then Navigate to on Cart page...............................................passed
+And Verify if the produdct is added to cart.................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
